@@ -44,6 +44,17 @@ export const projects = [
     visit: 'https://653fcd17333f5c3f3e669666--tiny-melba-ff3ecf.netlify.app/',
     id: 4,
   },
+
+  {
+    title: 'AI-Sumz',
+    description: "AI-Sumz is a React.js-based article summarization tool designed to automatically condense lengthy articles. It was built using React.js, Vite, Tailwind CSS, Redux Toolkit, and JavaScript. The project's key features include article summarization, responsive design, optimized performance, a sleek user interface, and efficient state management. This a web application that prioritize user experience and information extraction.",
+    
+    image: '/images/6.png',
+    tags: ['ReactJs', 'Vite', 'Redux', 'Tailwind CSS', 'JavaScript'],
+    source: 'https://github.com/Barnabasbanny/ai_summarizer',
+    visit: 'https://barnabas-ai-summarizer.netlify.app/',
+    id: 5,
+  },
 ];
 
 export const TimeLineData = [

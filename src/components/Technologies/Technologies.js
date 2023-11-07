@@ -22,6 +22,7 @@ const Technologies = () =>  (
             Experience with <br />
             React.Js <br />
             Next.Js <br />
+            Redux <br />
             Tailwind Css 
           </ListParagraph>
         </ListContainer>
