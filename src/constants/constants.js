@@ -55,6 +55,17 @@ export const projects = [
     visit: 'https://barnabas-ai-summarizer.netlify.app/',
     id: 5,
   },
+
+  {
+    title: 'CAR HUB',
+    description: "CAR HUB is my responsive frontend project, built with Next.js 13, React.js, TypeScript, and Tailwind CSS. This dynamic application allows users to easily search for and explore various cars, offering features for both rental and purchase. Leveraging API routes, the project ensures up-to-date car data. With a focus on optimal performance and a visually appealing design, CAR HUB exemplifies my proficiency in frontend development, making it a standout addition to my portfolio.",
+    
+    image: '/images/7.png',
+    tags: ['ReactJs', 'NextJs 13', 'Typescript', 'Tailwind CSS',],
+    source: 'https://github.com/Barnabasbanny/car_hub.git',
+    visit: 'https://car-hub-alpha-khaki.vercel.app/',
+    id: 6,
+  },
 ];
 
 export const TimeLineData = [
