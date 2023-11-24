@@ -66,6 +66,17 @@ export const projects = [
     visit: 'https://car-hub-alpha-khaki.vercel.app/',
     id: 6,
   },
+
+  {
+  title: 'JOB HUNT',
+    description: "Job Hunt is a cross-platform mobile app developed with ReactJS, React Native, Expo, and JavaScript, designed to streamline the job search process. Available on both Android and iOS, the app facilitates easy job discovery and provides direct application links. With a user-friendly interface and real-time updates, Job Hunt stands out as a tech-savvy career tool, showcasing proficiency in ReactJS, React Native, Expo, and JavaScript.",
+    
+    image: '/images/8.png',
+    tags: ['ReactJs', 'React Native', 'Expo', 'JavaScript',],
+    source: 'https://github.com/Barnabasbanny/job_hunt',
+    visit: 'https://github.com/Barnabasbanny/job_hunt',
+    id: 7,
+  },
 ];
 
 export const TimeLineData = [

@@ -21,6 +21,7 @@ const Technologies = () =>  (
           <ListParagraph>
             Experience with <br />
             React.Js <br />
+            React Native <br />
             Typescript <br />
             Next.Js <br />
             Redux <br />
