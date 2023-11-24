@@ -12,10 +12,10 @@ const Hero = () => (
         Barnabas Shaibu 
       </SectionTitle>
       <SectionText>
-      I'm an experienced React frontend developer specializing in user-centric, high-performance web applications. With expertise in responsive design and strong collaboration skills, I deliver outstanding digital experiences. My portfolio showcases successful projects, and I'm committed to continuous learning and innovation. Let's collaborate on your next project for exceptional results!
+      I'm an experienced frontend software engineer specializing in user-centric, high-performance web applications. With expertise in responsive design and strong collaboration skills, I deliver outstanding digital experiences. My portfolio showcases successful projects, and I'm committed to continuous learning and innovation. Let's collaborate on your next project for exceptional results!
 
       </SectionText>
-      <Button onClick={() => window.location = 'https://drive.google.com/drive/folders/1bsT-z1n_BkVp2Y161Dtd3d4KQ_0yQZ3W?usp=sharing'}>
+      <Button onClick={() => window.location = 'https://drive.google.com/file/d/1b6NKWFwt4eFmxTGeCigGkd9rDhx5luqR/view?usp=sharing'}>
         Learn More
       </Button>
     </LeftSection>
