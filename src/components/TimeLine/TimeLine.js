@@ -116,7 +116,7 @@ As a developer, I thrive on challenges and view them as opportunities for growth
         ))}
       </CarouselButtons>
 
-      <Button onClick={() => window.location = 'https://drive.google.com/drive/folders/1bsT-z1n_BkVp2Y161Dtd3d4KQ_0yQZ3W?usp=sharing'}>
+      <Button onClick={() => window.location = 'https://drive.google.com/file/d/1b6NKWFwt4eFmxTGeCigGkd9rDhx5luqR/view?usp=sharing'}>
         Download CV 
       </Button>
 
